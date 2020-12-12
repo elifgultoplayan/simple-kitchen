@@ -1,0 +1,49 @@
+body{
+    text-decoration:purple;
+    background-size:cover;
+background-image:url('/back.jpg');
+}
+.head{
+    margin:0 auto;
+    background-color: peru;
+    opacity:0.9;
+    width:400px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:whitesmoke;
+
+}
+.yazi1{
+    background-color:rgba(200, 0, 0, 0.3);
+}
+.kutu1{
+    width:50%;
+    height:50%;
+    background-color:rgba(200, 0, 0, 0.3);
+}
+a{
+    color:purple;
+}
+.footer{
+    background-color:rgba(238, 225, 225, 0);
+}
+img{
+    width:50%;
+    height:50%;
+}
+.tarif{
+    background-color:rgba(200, 0, 0, 0.3);
+}
+.card{
+    background-color:rgba(200, 0, 0, 0.3);
+}
+.card-title{
+    background-color:rgba(136, 252, 3, 0.4);
+}
+#simple{
+    margin: 30px auto 10px auto;
+    background-color:rgba(255,69,0,0.7);
+    width:325px;
+    color:purple;
+}
