@@ -1,7 +1,7 @@
 body{
     text-decoration:purple;
     background-size:cover;
-background-image:url('/back.jpg');
+background-image:url("../img/back.jpg");
 }
 .head{
     margin:0 auto;
